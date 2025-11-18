@@ -14,6 +14,6 @@ You can view the live project here:
 
 [Live Demo](https://basic-html-website-w2vz.vercel.app)
 
-[Project Page](https://github.com/arne-witteler/basic-html-website)
+[Project Page](https://roadmap.sh/projects/basic-html-website)
 
 ---
